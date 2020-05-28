@@ -1,0 +1,177 @@
+body {
+  margin: auto;
+  text-align: center;
+  font-family: 'Montserrat', serif;
+  color: #40514E;
+}
+
+
+h1 {
+  font-family: 'Sacramento', cursive;
+  font-size: 90px;
+  margin: 50px auto 10px auto;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+  font-size: 2.5rem;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E
+}
+
+p {
+  line-height: 2;
+}
+
+a {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+  padding: 20px auto 30px;
+}
+
+a:hover {
+  color: white;
+}
+
+.h-2 {
+  font-family: cursive;
+  font-size: 2.5rem;
+  margin: 20px auto;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+.top-container {
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  padding-top: 50px;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 50px 0 30px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  bottom: 300px;
+  left: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 70px;
+  right: 350px;
+}
+
+.images {
+  height: 200px;
+}
+
+.footer-link {
+  color: #11999E;
+}
+
+.skill-row {
+  width: 50%;
+  display: inline-block;
+  margin: 50px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.bird {
+  width: 25%;
+  float: right;
+  margin-right: 20px;
+}
+
+.web-dev {
+  float: left;
+  margin-right: 20px;
+  width: 25%;
+}
+
+.horizontal {
+  border-style: none;
+  border-top: dotted;
+  border-width: 10px;
+  border-color: #EAF6F6;
+  width: 5%;
+  margin: 50px auto 100px auto;
+}
+
+.h2 {
+  font-size: 2.5rem;
+}
+.h2passion{
+  font-size: 2.5rem;
+}
+
+.h2second {
+  font-size: 2.5rem;
+}
+
+.paragraph1 {
+  width: 50%;
+  display: inline-block;
+}
+
+.horizontalrt {
+  border-style: none;
+  border-top: dotted;
+  border-width: 10px;
+  border-color: #EAF6F6;
+  width: 5%;
+  margin: 100px auto;
+}
+
+.h3 {
+  margin: 50px auto;
+}
+
+.paragraph3 {
+  width: 50%;
+  display: inline-block;
+  margin-bottom: 50px;
+}
+
+.pwhite {
+  color: white;
+  margin-top: 30px;
+}
+
+.button {
+  background: #66BFBF;
+  border-radius: 10px;
+  color: #FFFFFF;
+  font-family: Arial;
+  font-size: 20px;
+  font-weight: 100;
+  padding: 15px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+  border-style: none;
+
+  border-image: none;
+  margin: 30px 0 50px;
+
+}
+
+.button:hover {
+  background: #4BCDD3;
+  text-decoration: none;
+}
